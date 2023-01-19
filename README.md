@@ -2,4 +2,4 @@
 
 A demo for the following repository.
 
-<a href="https://github.com/C0nw0nk/CoinHive">https://github.com/C0nw0nk/CoinHive</a>
+<a href="https://github.com/C0nw0nk">https://github.com/C0nw0nka>
